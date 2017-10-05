@@ -1,0 +1,74 @@
+headlamp.txt
+Created Thu Oct  5 09:48:51 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+One idea is to create a new light headlamp.
+
+The Fenix 18650 lights are a bit heavy for bicycling.
+
+
+Features
+========
+o LED to use?
+o White LED light
+o Red LED light (?)
+o Other color LED lights (???)
+o low/media/high light levels
+o IPX6 water proof
+o Recharging via inductive charging,
+  i.e. Qi wireless charging used by phones
+o Recharging via waterproof usb port
+
+
+IPX6 & IPX7
+===========
+IPX6 Waterproof Standard
+Heavy splashing and rain - This test sends water at all angles through a
+12.5mm nozzle at a rate of 100 liters/min at a pressure of 100kN/m2 for
+3 minutes from a distance of 3 meters.  Must not fail or show water seepage.
+
+IPX-7 Waterproof Standard
+Puddle, stream, beer cooler and splash rated - Protected against water
+immersion - Immersion for 30 minutes at a depth of 1 meter.
+
+Interesting that IPX6 does not cover immersion.  Must be IPX7 for this.
+--gpslodge.com/
+
+
+
+Inductive charging
+==================
+Inductive charging (also known as wireless charging or cordless charging)
+uses an electromagnetic field to transfer energy between two objects through
+electromagnetic induction.  This is usually done with a charging station.
+Energy is sent through an inductive coupling to an electrical device, which
+can then use that energy to charge batteries or run the device.
+--wikipedia.com
+
+
+Links
+=====
+CHOETECH Qi Certified T511 Qi Wireless Charger Pad
+with Anti-Slip Rubber for Qi-Enabled Devices - Black
+price: $12.00 (amazon prime - Oct 5, 2017)
+https://www.amazon.com/CHOETECH-Certified-T511-Anti-Slip-Qi-Enabled/dp/B00C40OG22/ref=sr_1_3?ie=UTF8&qid=1507226256&sr=8-3&keywords=qi+charging+pad
+
+Fast Wireless Charger,Yootech Fast Charge QI Wireless charging pad for
+Galaxy S8,S8 Plus,S7 Edge,S7,Note 5 [ Adapter Not Included]
+[Sleep-friendly, Smart Lighting Sensor]
+price: $14.99 (amazon prime - Oct 5, 2017)
+
+Inductive charging
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Inductive_charging
+
+Samsung Wireless Charging Pad with 2A Wall Charger w/ Warranty - Frustration
+Free Packaging, Black Sapphire
+This is compatible with all Qi-enabled devices including from Samsung
+price: $24.99 (amazon prime - Oct 5, 2017)
+https://www.amazon.com/dp/B01BHEIIR4/ref=asc_df_B01BHEIIR45202029/?tag=hyprod-20&creative=394997&creativeASIN=B01BHEIIR4&linkCode=df0&hvadid=198071814168&hvpos=1o4&hvnetw=g&hvrand=17391732504360518064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060448&hvtargid=pla-357634971041
+
+What Does IPX6 and IPX7 Waterproof Rating Mean?
+GPS Lodge, March 8, 2010
+http://www.gpslodge.com/archives/031142.php
