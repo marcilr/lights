@@ -11,30 +11,79 @@ The Fenix 18650 lights are a bit heavy for bicycling.
 Features
 ========
 o LED to use?
+  Cree XM-L2 U2 neutral white LED with a lifespan of 50,000 hours
+  --www.fenix-store.com/fenix-hl55-led-headlamp/
+
 o White LED light
 o Red LED light (?)
 o Other color LED lights (???)
 o low/media/high light levels
+
+o light levels:
+  Four modes of output plus a "Burst" mode
+  High:  420 Lumens (3 hours 45 min.)
+  Mid:  165 Lumens (10 hours)
+  Low:  55 Lumens (30 hours)
+  Eco:  10 Lumens (150 hours)
+  BURST:  900 Lumens
+  --www.fenix-store.com/fenix-hl55-led-headlamp/
+
+o Regulated
+  Digitally regulated output maintains constant brightness
+  --www.fenix-store.com/fenix-hl55-led-headlamp/
+
+o Lens cover
+  Toughened ultra-clear glass lens with anti-reflective coating
+  --www.fenix-store.com/fenix-hl55-led-headlamp/
+
+o Housing
+  All-metal housing to shed heat and impact
+  Premium Type III hard-anodized anti-abrasive finish
+  --www.fenix-store.com/fenix-hl55-led-headlamp/
+
+
 o IPX6 water proof
+  The Fenix HL55 LED Headlamp is rated:
+  Waterproof to IPX-8 standards (under water 6.5 feet/2 meters for 30 minutes)
+
+o Batteries
+  I think a rechargable 18650 Li-ion is a bit heavy for a bicycling headlamp
+  Perhaps a 700mAh 16340 (3.7V, 17.4g/0.6oz, 34.5mm x 17mm)
+  Li-ion, same diameter as 18650 (65.2mm x 18.6mm)
+
+  I do like the Petzl - ACCU CORE Rechargeable Battery for Use with
+  Compact Lamps, $29 (amazon prime - Oct 5, 2017)
+
 o Recharging via inductive charging,
   i.e. Qi wireless charging used by phones
+
 o Recharging via waterproof usb port
+
+o red/grean charging/charged indicator light.
+o charge level indicator light or 3 LEDs?
+
+o Reverse polarity protection guards against improper battery installation
 
 
 IPX6 & IPX7
 ===========
 IPX6 Waterproof Standard
-Heavy splashing and rain - This test sends water at all angles through a
-12.5mm nozzle at a rate of 100 liters/min at a pressure of 100kN/m2 for
-3 minutes from a distance of 3 meters.  Must not fail or show water seepage.
+  Heavy splashing and rain - This test sends water at all angles through a
+  12.5mm nozzle at a rate of 100 liters/min at a pressure of 100kN/m2 for
+  3 minutes from a distance of 3 meters.  Must not fail or show water seepage.
+  --gpslodge.com/
 
 IPX-7 Waterproof Standard
-Puddle, stream, beer cooler and splash rated - Protected against water
-immersion - Immersion for 30 minutes at a depth of 1 meter.
+  Puddle, stream, beer cooler and splash rated - Protected against water
+  immersion - Immersion for 30 minutes at a depth of 1 meter.
+  --gpslodge.com/
+
+IPX-8 Waterproof Standard
+  Standards (under water 6.5 feet/2 meters for 30 minutes)
+  --fenix-store.com/
 
 Interesting that IPX6 does not cover immersion.  Must be IPX7 for this.
 --gpslodge.com/
-
 
 
 Inductive charging
@@ -59,9 +108,16 @@ Galaxy S8,S8 Plus,S7 Edge,S7,Note 5 [ Adapter Not Included]
 [Sleep-friendly, Smart Lighting Sensor]
 price: $14.99 (amazon prime - Oct 5, 2017)
 
+Fenix HL55 LED Headlamp
+https://www.fenix-store.com/fenix-hl55-led-headlamp/
+
 Inductive charging
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Inductive_charging
+
+Petzl - ACCU CORE Rechargeable Battery for Use with Compact Lamps
+price: $29.00 (amazon prime - Oct 5, 2017)
+https://www.amazon.com/Petzl-Rechargeable-Battery-Compact-Lamps/dp/B01L328L72/ref=sr_1_4?ie=UTF8&qid=1507227615&sr=8-4&keywords=petzl+battery
 
 Samsung Wireless Charging Pad with 2A Wall Charger w/ Warranty - Frustration
 Free Packaging, Black Sapphire
